@@ -8,6 +8,9 @@
 # if  (n&(1<<i))!=0 then the bit is set 
 
 
+# 0  & 0 0
+#   0 0  & 1 0
+
 def subseq(stri,n):
     a=(2**n)
     for i in range(a):
@@ -19,4 +22,4 @@ def subseq(stri,n):
         print(sub)
        
 
-subseq('vikas',5)
+subseq('abc',3)

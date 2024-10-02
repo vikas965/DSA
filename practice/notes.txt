@@ -1,0 +1,15 @@
+catalan number 
+
+
+Cn = (2n)! /(n+1)!n!   or 2nCn/n+1
+
+used to find the 
+
+Valid parenthesis combinations
+Number of distinct binary trees with n nodes
+Ways to triangulate a polygon
+Ways to arrange binary search trees
+​
+
+
+
